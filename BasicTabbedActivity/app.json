@@ -1,0 +1,12 @@
+{
+  "name": "TabbedActivity",
+  "displayName": "TabbedActivity",
+  "expo": {
+    "name": "TabbedActivity",
+    "slug": "TabbedActivity",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
